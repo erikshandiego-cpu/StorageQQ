@@ -1,0 +1,2 @@
+# StorageQQ
+Web Storage QQ
